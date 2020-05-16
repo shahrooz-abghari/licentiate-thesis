@@ -1,5 +1,3 @@
-#theme: jekyll-theme-cayman
-remote_theme: "mmistakes/minimal-mistakes@4.19.2"
-plugins: jekyll-include-cache
-title: Shahrooz Abghari's Licentiate Thesis
-description: Blekinge Tekniska Högskola, Department of Computer Science and Engineering
+theme: jekyll-theme-cayman
+title: Shahrooz Abghari's PhD Dissertation
+description: Blekinge Tekniska Högskola, Department of Computer Science, 2020
