@@ -31,7 +31,7 @@ footer {
 }
 
 .collapsible:after {
-  content: '\25B6';
+  content_: '\25B6';
   color: white;
   font-weight: bold;
   float: left;
@@ -39,10 +39,10 @@ footer {
 }
 
 .active:after {
-  content: "\25BC";
+  content_: "\25BC";
 }
 
-.content {
+.content_ {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
