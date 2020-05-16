@@ -20,7 +20,9 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
-    <script>
+    <main id="content" class="main-content" role="main">
+      {{ content }
+          <script>
         var coll = document.getElementsByClassName("collapsible");
         var i;
 
@@ -36,8 +38,7 @@
           });
         }
        </script>
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+      }
       
       <footer class="site-footer">
         {% if site.github.is_project_page %}
