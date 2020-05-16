@@ -1,5 +1,6 @@
-<h3 style="text-align:center;color:#606c71;"><b>Licentiate Thesis</b></h3>
-<h1 style="text-align:center;color:#606c71;"><b>Data Modeling for Outlier Detection</b></h1>
+<!--h3 style="text-align:center;color:#606c71;"><b>Licentiate Thesis</b></h3-->
+<h1 style="text-align:center;color:#606c71;"><b>Outlier Detection Analysis:</b></h1> 
+<h2 style="text-align:center;color:#606c71;"><b>Approaches for Identifying Deviating Behaviors in Real-world</b></h2>
 
 **Abstract**
 <p align="justify">This thesis explores the data modeling for outlier detection techniques in three different application domains: <i>maritime surveillance</i>, <i>district heating</i>, and <i>online media and sequence datasets</i>. The proposed models are evaluated and validated under different experimental scenarios, taking into account specific characteristics and setups of the different domains.</p> 
@@ -8,17 +9,20 @@
 
 <p align="justify">We have studied and applied a combination of both machine learning and data mining techniques to build data-driven and domain-oriented outlier detection models. We have shown the importance of data preprocessing as well as feature selection in building suitable methods for data modeling. We have taken advantage  of both supervised and unsupervised techniques to create hybrid methods. For example, we have proposed a rule-based outlier detection system based on <i>open data</i> for the maritime surveillance domain. Furthermore, we have combined cluster analysis and regression to identify manual changes in the heating systems at the building level. Sequential pattern mining for identifying contextual and collective outliers in online media data have also been exploited. In addition, we have proposed a minimum spanning tree clustering technique for detection of groups of outliers in online media and sequence data. The proposed models have been shown to be capable of explaining the underlying properties of the detected outliers. This can facilitate domain experts in narrowing down the scope of analysis and understanding the reasons of such anomalous behaviors. We have also investigated the reproducibility of the proposed models in similar application domains.</p>
 
-[Licentiate Thesis Final, October 19, 2018](./doc/thesis_final.pdf)
+**Thesis description and author contribution**
+<p align="justify"></p>
 
-[Licentiate Thesis v1, October 12, 2018](./doc/thesis_v1.pdf)
+[PDF]()
 
-**The following papers are included in this thesis**
+**Included papers**
 
-**Paper I:** 
-<p align="justify">Kazemi, S., Abghari, S., Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI: 10.1016/J.ESWA.2013.04.029</p>
+<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI: 10.1016/J.ESWA.2013.04.029</p>
 
 **Abstract**
-<p align="justify">Maritime surveillance has received increased attention from a civilian perspective in recent years. Anomaly detection is one of many techniques available for improving the safety and security in this domain. Maritime authorities use confidential data sources for monitoring the maritime activities; however, a paradigm shift on the Internet has created new open sources of data. We investigate the potential of using open data as a complementary resource for anomaly detection in maritime surveillance. We present and evaluate a decision support system based on open data and expert rules for this purpose. We conduct a case study in which experts from the Swedish coastguard participate to conduct a real-world validation of the system. We conclude that the exploitation of open data as a complementary resource is feasible since our results indicate improvements in the efficiency and effectiveness of the existing surveillance systems by increasing the accuracy and covering unseen aspects of maritime activities.</p>
+<button class="collapsible"><u>Abstract</u></button>
+<div class="content">
+  <p align="justify">Maritime surveillance has received increased attention from a civilian perspective in recent years. Anomaly detection is one of many techniques available for improving the safety and security in this domain. Maritime authorities use confidential data sources for monitoring the maritime activities; however, a paradigm shift on the Internet has created new open sources of data. We investigate the potential of using open data as a complementary resource for anomaly detection in maritime surveillance. We present and evaluate a decision support system based on open data and expert rules for this purpose. We conduct a case study in which experts from the Swedish coastguard participate to conduct a real-world validation of the system. We conclude that the exploitation of open data as a complementary resource is feasible since our results indicate improvements in the efficiency and effectiveness of the existing surveillance systems by increasing the accuracy and covering unseen aspects of maritime activities.</p>
+</div>
 
 [Journal](https://www.sciencedirect.com/science/article/pii/S0957417413002765)
 
