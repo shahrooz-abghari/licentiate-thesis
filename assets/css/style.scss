@@ -15,10 +15,6 @@ footer {
   display: none;
 }
 
-div {
-    max-height:none;
-}
-
 .collapsible {
   background-color: #777;
   color: white;
@@ -49,7 +45,7 @@ div {
 
 .content_ {
   padding: 0 18px;
-  max-height: 0;
+  max-height: none;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
