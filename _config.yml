@@ -1,3 +1,4 @@
 theme: minimal-mistakes-jekyll #jekyll-theme-cayman
+plugins: jekyll-include-cache
 title: Shahrooz Abghari's Licentiate Thesis
 description: Blekinge Tekniska Högskola, Department of Computer Science and Engineering
