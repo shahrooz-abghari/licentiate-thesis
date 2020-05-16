@@ -19,7 +19,7 @@
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI: 10.1016/J.ESWA.2013.04.029</p>
 
 <button class="collapsible"><u>Abstract</u></button>
-<div class="content_">
+<div class="content">
   <p align="justify">Maritime surveillance has received increased attention from a civilian perspective in recent years. Anomaly detection is one of many techniques available for improving the safety and security in this domain. Maritime authorities use confidential data sources for monitoring the maritime activities; however, a paradigm shift on the Internet has created new open sources of data. We investigate the potential of using open data as a complementary resource for anomaly detection in maritime surveillance. We present and evaluate a decision support system based on open data and expert rules for this purpose. We conduct a case study in which experts from the Swedish coastguard participate to conduct a real-world validation of the system. We conclude that the exploitation of open data as a complementary resource is feasible since our results indicate improvements in the efficiency and effectiveness of the existing surveillance systems by increasing the accuracy and covering unseen aspects of maritime activities.</p>
 </div>
 
@@ -54,11 +54,11 @@ var i;
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var content_ = this.nextElementSibling;
-    if (content_.style.maxHeight){
-      content_.style.maxHeight = null;
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight)[0]{
+      content.style.maxHeight = null;
     } else {
-      content_.style.maxHeight = content_.scrollHeight + "px";
+      content.style.maxHeight = content.scrollHeight + "px";
     } 
   });
 }
