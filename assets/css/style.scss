@@ -14,9 +14,9 @@ header img {
 footer {
   display: none;
 }
-
 .collapsible {
-  color: black;
+  background-color: #777;
+  color: white;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -26,9 +26,13 @@ footer {
   font-size: 15px;
 }
 
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
 .collapsible:after {
   content: '\25B6';
-  color: black;
+  color: white;
   font-weight: bold;
   float: left;
   margin-left: 5px;
@@ -43,4 +47,5 @@ footer {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
 }
