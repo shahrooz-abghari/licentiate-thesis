@@ -71,7 +71,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. (2019, October). "Higher order mining for monitoring district seating substations". In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">10.1109/DSAA.2019.00053</a> - 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Higher order mining for monitoring district seating substations". In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">10.1109/DSAA.2019.00053</a> - 
 <strong><a href="https://ieeexplore.ieee.org/document/8964173">[IEEE]</a></strong>
 </p>
   
