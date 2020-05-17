@@ -15,6 +15,27 @@ footer {
   display: none;
 }
 
+.ai {
+  padding: 20px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.ai:hover {
+    opacity: 0.7;
+}
+
+.ai-orcid-square {
+  color: white;
+}
+
+.ai-google-scholar {
+  color: white;
+}
+
 .center {
   margin: auto;
   width: 60%;
