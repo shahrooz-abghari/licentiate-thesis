@@ -58,7 +58,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> The 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i>, (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182">[10.1109/ICMLA.2018.00182</a> - <a href="https://ieeexplore.ieee.org/abstract/document/8614207">[IEEE]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i>, (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182">[10.1109/ICMLA.2018.00182</a> - <a href="https://ieeexplore.ieee.org/abstract/document/8614207">[IEEE]</a></p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
 <div style="display:none" id="a4">
