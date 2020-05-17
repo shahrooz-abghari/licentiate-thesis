@@ -1,6 +1,6 @@
 <!--h3 style="text-align:center;color:#606c71;"><b>Licentiate Thesis</b></h3-->
 <h1 style="text-align:left;color:#606c71;margin-bottom: 0px;"><b>Outlier Detection Analysis:</b></h1>
-<h2 style="text-align:left;color:#606c71;">Approaches for Identifying Deviating Behaviors in Real-world</h2>
+<h2 style="text-align:left;color:#606c71;margin-top: 2px;">Approaches for Identifying Deviating Behaviors in Real-world</h2>
 
 **Abstract**
 <p align="justify">This thesis explores the data modeling for outlier detection techniques in three different application domains: <i>maritime surveillance</i>, <i>district heating</i>, and <i>online media and sequence datasets</i>. The proposed models are evaluated and validated under different experimental scenarios, taking into account specific characteristics and setups of the different domains.</p> 
