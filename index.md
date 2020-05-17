@@ -70,7 +70,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S., Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. (2019, October). Higher order mining for monitoring district heating substations. In <i> 2019 International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">[10.1109/DSAA.2019.00053]</a> - <a href="https://ieeexplore.ieee.org/document/8614207">[IEEE]</a>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. (2019, October). Higher order mining for monitoring district heating substations. In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">[10.1109/DSAA.2019.00053]</a> - <a href="https://ieeexplore.ieee.org/document/8614207">[IEEE]</a>
   </b>, 
 </p>
   
@@ -84,7 +84,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S. Boeva, V., Brage, J., & Grahn, H. (2019). Multi-view Clustering Analyses for District Heating Substations. In <i> the 9th International Conference on Data Science, Technology and Applications (DATA 2020).</i></b>, 
+<p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Multi-view Clustering Analyses for District Heating Substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020).</i></b>, 
 </p>
   
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
