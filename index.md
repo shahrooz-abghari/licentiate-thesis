@@ -85,7 +85,7 @@
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i> Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1">10.1007/978-3-030-43887-6_1</a> - 
-<strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1"></a>[Springer]</strong>
+<strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1">[Springer]</a></strong>
 
 </p>
   
