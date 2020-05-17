@@ -18,7 +18,7 @@
 <ul>
 <li>
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029">10.1016/J.ESWA.2013.04.029</a>
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765">[sciencedirect]</a></strong></p>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765">" - "[sciencedirect]</a></strong></p>
   
 <button id="b1" class="unstyled-button"  onclick="toggle('a1');update_button('b1')"><u>Abstract</u></button>
 <div style="display:none" id="a1">
@@ -30,9 +30,9 @@
 </li>
 
 <li>
-<p align="justify">Abghari, S., Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI: 10.1016/J.EGYPRO.2017.05.088. Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.
+<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI: 10.1016/J.EGYPRO.2017.05.088. Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.
 <a href="https://doi.org/10.1016/j.egypro.2017.05.088">10.1016/J.EGYPRO.2017.05.088</a>
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956">[sciencedirect]</a></strong></p>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956">" - "[sciencedirect]</a></strong></p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
 <div style="display:none" id="a2">
@@ -43,34 +43,60 @@
 </p>  
 </li>
 
-**Paper III:** 
-<p align="justify">Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". In <i>Association for Computing Machinery’s Special Interest Group on Knowledge Discovery and Data Mining: Workshop On Outlier Detection De-constructed</i>, 2018, London, UK.</p>
+<li>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". In <i>Association for Computing Machinery’s Special Interest Group on Knowledge Discovery and Data Mining: Workshop On Outlier Detection De-constructed</i>, 2018, London, UK.</p>
+<a href="https://www.andrew.cmu.edu/user/lakoglu/odd/index.html">[ODD v5.0 Workshop]</a> " - "
+<strong><a href="./doc/paper3.pdf">[PDF]</a></strong></p>
 
 <button id="b3" class="unstyled-button"  onclick="toggle('a3');update_button('b3')"><u>Abstract</u></button>
 <div style="display:none" id="a3">
 <p align="justify">The growth of Internet video and over-the-top transmission techniques has enabled online video service providers to deliver high quality video content to viewers. To maintain and improve the quality of experience, video providers need to detect unexpected issues that can highly affect the viewers’ experience. This requires analyzing massive amounts of video session data in order to find unexpected sequences of events. In this paper we combine sequential pattern mining and clustering to discover such event sequences. The proposed approach applies sequential pattern mining to find frequent patterns by considering contextual and collective outliers. In order to distinguish between the normal and abnormal behavior of the system, we initially identify the most frequent patterns. Then a clustering algorithm is applied on the most frequent patterns. The generated clustering model together with Silhouette Index are used for further analysis of less frequent patterns and detection of potential outliers. Our results show that the proposed approach can detect outliers at the system level.</p>
 </div>
+<p>
+  <br>
+</p>  
+</li>
 
-[PDF](./doc/paper3.pdf) \| [Workshop](https://www.andrew.cmu.edu/user/lakoglu/odd/index.html)
-
-**Paper IV:** 
-<p align="justify">Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> The 17th IEEE International Conference on Machine Learning and Applications: Special Session on Machine Learning Algorithms, Systems and Applications</i>, December, 2018, Orlando, Florida, USA. (Accepted for publication.)</p>
+<li>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> The 17th IEEE International Conference on Machine Learning and Applications: Special Session on Machine Learning Algorithms, Systems and Applications</i>, December, 2018, Orlando, Florida, USA. (Accepted for publication.)</p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
 <div style="display:none" id="a4">
 <p align="justify">Abstract—Outlier detection has been studied in many domains. Outliers arise due to different reasons such as mechanical issues, fraudulent behavior, and human error. In this paper, we propose an unsupervised approach for outlier detection in a sequence dataset. The proposed approach combines sequential pattern mining, cluster analysis and a minimum spanning tree algorithm in order to identify clusters of outliers. Initially, the sequential pattern mining is used to extract frequent sequential patterns. Next the extracted patterns are clustered into groups of similar patterns. Finally the minimum spanning tree algorithm is used to find groups of outliers. The proposed approach has been evaluated on two different real datasets, i.e., smart meter data and video session data. The obtained results have shown that our approach can be applied to narrow down the space of events to a set of potential outliers and facilitate domain experts in further analysis and identification of system level issues.</p>
- </div>
- 
+</div>
+<p>
+  <br>
+</p>  
+</li>
+
+<li>
 <button id="b5" class="unstyled-button"  onclick="toggle('a5');update_button('b5')"><u>Abstract</u></button>
 <div style="display:none" id="a5">
   <p align="justify"></p>
-  </div>
+</div>
+<p>
+  <br>
+</p>  
+</li>
+
+<li>
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
 <div style="display:none" id="a6">
     <p align="justify"></p>
-  </div>
+</div>
+<p>
+<br>
+</p>  
+</li>
+
+<li>
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
 <div style="display:none" id="a7">
   <p align="justify"></p>
-  </div>
+</div>
+<p>
+  <br>
+</p>  
+</li>
+
 </ul>
