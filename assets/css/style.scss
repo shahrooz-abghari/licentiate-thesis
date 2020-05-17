@@ -19,52 +19,22 @@ footer {
   border: none;
   padding: 0;
   background: none;
-}
-
-.collapsible {
-  background-color: #777;
-  color: white;
   cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none;
 }
 
-.active, .collapsible:hover {
-  background-color: #555;
+.unstyled-button::before {
+  content: "\25B6";
+  color: black;
+  display: inline-block;
+  margin-right: 6px;
 }
 
-.collapsible:after {
-  content: '\25B6';
-  color: white;
-  font-weight: bold;
-  float: left;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\25BC";
-}
-
-.content {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
-}
-
-#panel, #flip {
-  padding: 5px;
-  text-align: center;
-  background-color: #e5eecc;
-  border: solid 1px #c3c3c3;
-}
-
-#panel {
-  padding: 50px;
-  display: none;
-}
+.unstyled-button-down::before {
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Safari */'
+  transform: rotate(90deg);  
+}  
