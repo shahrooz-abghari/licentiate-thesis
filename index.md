@@ -30,9 +30,9 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI: 10.1016/J.EGYPRO.2017.05.088. Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.
-<a href="https://doi.org/10.1016/j.egypro.2017.05.088">10.1016/J.EGYPRO.2017.05.088</a> - 
+<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088">10.1016/J.EGYPRO.2017.05.088</a> - 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956">[sciencedirect]</a></strong></p>
+<p><br>Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.</p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
 <div style="display:none" id="a2">
