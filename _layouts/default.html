@@ -24,14 +24,17 @@
       {{ content }}
       
       <script>
-      function toggle(name) {
-        var content = document.getElementById(name);
-        if (content.style.display == 'block') {
-          content.style.display = 'none';
-        } else {
-          content.style.display = 'block';
+        function update_button(name) {
+           document.getElementById(id).classList.toggle("unstyled-button-down");
         }
-      }
+        function toggle(name) {
+          var content = document.getElementById(name);
+          if (content.style.display == 'block') {
+            content.style.display = 'none';
+              } else {
+                content.style.display = 'block';
+              }
+            }
       </script>
       
       <footer class="site-footer">
