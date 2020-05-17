@@ -17,9 +17,8 @@
 **Included papers**
 <ul>
 <li>
-<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI: 10.1016/J.ESWA.2013.04.029</p>
-
-[Journal](https://www.sciencedirect.com/science/article/pii/S0957417413002765)
+<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029">10.1016/J.ESWA.2013.04.029</a>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765">[sciencedirect]</a></strong></p>
   
 <button id="b1" class="unstyled-button"  onclick="toggle('a1');update_button('b1')"><u>Abstract</u></button>
 <div style="display:none" id="a1">
@@ -30,15 +29,19 @@
 </p>  
 </li>
 
-**Paper II:** 
-<p align="justify">Abghari, S., Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI: 10.1016/J.EGYPRO.2017.05.088. Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.</p>
+<li>
+<p align="justify">Abghari, S., Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI: 10.1016/J.EGYPRO.2017.05.088. Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.
+<a href="https://doi.org/10.1016/j.egypro.2017.05.088">10.1016/J.EGYPRO.2017.05.088</a>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956">[sciencedirect]</a></strong></p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
 <div style="display:none" id="a2">
   <p align="justify">The aim of this study is to improve the monitoring and controlling of heating systems located at customer buildings through the use of a decision support system. To achieve this, the proposed system applies a two-step classifier to detect manual changes of the temperature of the heating system. We apply data from the Swedish company NODA, active in energy optimization and services for energy efficiency, to train and test the suggested system. The decision support system is evaluated through an experiment and the results are validated by experts at NODA. The results show that the decision support system can detect changes within three days after their occurrence and only by considering daily average measurements.</p>
 </div>
-
-[PDF](./doc/paper2.pdf) \| [Journal](https://www.sciencedirect.com/science/article/pii/S1876610217322956)
+<p>
+  <br>
+</p>  
+</li>
 
 **Paper III:** 
 <p align="justify">Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". In <i>Association for Computing Machinery’s Special Interest Group on Knowledge Discovery and Data Mining: Workshop On Outlier Detection De-constructed</i>, 2018, London, UK.</p>
