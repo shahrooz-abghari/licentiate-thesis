@@ -58,7 +58,8 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i>, (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182">[10.1109/ICMLA.2018.00182</a> - <a href="https://ieeexplore.ieee.org/abstract/document/8614207">[IEEE]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i>, (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182">10.1109/ICMLA.2018.00182</a> - 
+<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207">[IEEE]</a></strong></p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
 <div style="display:none" id="a4">
@@ -70,8 +71,8 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. (2019, October). Higher order mining for monitoring district heating substations. In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">[10.1109/DSAA.2019.00053]</a> - <a href="https://ieeexplore.ieee.org/document/8614207">[IEEE]</a>
-  </b>, 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. (2019, October). Higher Order Mining for Monitoring District Heating Substations. In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">10.1109/DSAA.2019.00053</a> - 
+<strong><a href="https://ieeexplore.ieee.org/document/8964173">[IEEE]</a></strong>
 </p>
   
 <button id="b5" class="unstyled-button"  onclick="toggle('a5');update_button('b5')"><u>Abstract</u></button>
@@ -84,7 +85,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Multi-view Clustering Analyses for District Heating Substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020).</i></b>, 
+<p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Multi-view Clustering Analyses for District Heating Substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020).</i> 
 </p>
   
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
