@@ -18,8 +18,8 @@
 
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI: 10.1016/J.ESWA.2013.04.029</p>
 
-<div id="flip"><u>Abstract</u></div>
-<div id="panel">
+<button class="unstyled-button"  onclick="toggle('a1')">Abstract</button></p>
+<div style="display:none" id="a1">
   <p align="justify">Maritime surveillance has received increased attention from a civilian perspective in recent years. Anomaly detection is one of many techniques available for improving the safety and security in this domain. Maritime authorities use confidential data sources for monitoring the maritime activities; however, a paradigm shift on the Internet has created new open sources of data. We investigate the potential of using open data as a complementary resource for anomaly detection in maritime surveillance. We present and evaluate a decision support system based on open data and expert rules for this purpose. We conduct a case study in which experts from the Swedish coastguard participate to conduct a real-world validation of the system. We conclude that the exploitation of open data as a complementary resource is feasible since our results indicate improvements in the efficiency and effectiveness of the existing surveillance systems by increasing the accuracy and covering unseen aspects of maritime activities.</p>
 </div>
 
@@ -28,21 +28,40 @@
 **Paper II:** 
 <p align="justify">Abghari, S., Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI: 10.1016/J.EGYPRO.2017.05.088. Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.</p>
 
-**Abstract**
-<p align="justify">The aim of this study is to improve the monitoring and controlling of heating systems located at customer buildings through the use of a decision support system. To achieve this, the proposed system applies a two-step classifier to detect manual changes of the temperature of the heating system. We apply data from the Swedish company NODA, active in energy optimization and services for energy efficiency, to train and test the suggested system. The decision support system is evaluated through an experiment and the results are validated by experts at NODA. The results show that the decision support system can detect changes within three days after their occurrence and only by considering daily average measurements.</p>
+<button class="unstyled-button"  onclick="toggle('a2')">Abstract</button></p>
+<div style="display:none" id="a2">
+  <p align="justify">The aim of this study is to improve the monitoring and controlling of heating systems located at customer buildings through the use of a decision support system. To achieve this, the proposed system applies a two-step classifier to detect manual changes of the temperature of the heating system. We apply data from the Swedish company NODA, active in energy optimization and services for energy efficiency, to train and test the suggested system. The decision support system is evaluated through an experiment and the results are validated by experts at NODA. The results show that the decision support system can detect changes within three days after their occurrence and only by considering daily average measurements.</p>
+</div>
 
 [PDF](./doc/paper2.pdf) \| [Journal](https://www.sciencedirect.com/science/article/pii/S1876610217322956)
 
 **Paper III:** 
 <p align="justify">Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". In <i>Association for Computing Machinery’s Special Interest Group on Knowledge Discovery and Data Mining: Workshop On Outlier Detection De-constructed</i>, 2018, London, UK.</p>
 
-**Abstract**
+<button class="unstyled-button"  onclick="toggle('a3')">Abstract</button></p>
+<div style="display:none" id="a3">
 <p align="justify">The growth of Internet video and over-the-top transmission techniques has enabled online video service providers to deliver high quality video content to viewers. To maintain and improve the quality of experience, video providers need to detect unexpected issues that can highly affect the viewers’ experience. This requires analyzing massive amounts of video session data in order to find unexpected sequences of events. In this paper we combine sequential pattern mining and clustering to discover such event sequences. The proposed approach applies sequential pattern mining to find frequent patterns by considering contextual and collective outliers. In order to distinguish between the normal and abnormal behavior of the system, we initially identify the most frequent patterns. Then a clustering algorithm is applied on the most frequent patterns. The generated clustering model together with Silhouette Index are used for further analysis of less frequent patterns and detection of potential outliers. Our results show that the proposed approach can detect outliers at the system level.</p>
+</div>
 
 [PDF](./doc/paper3.pdf) \| [Workshop](https://www.andrew.cmu.edu/user/lakoglu/odd/index.html)
 
 **Paper IV:** 
 <p align="justify">Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> The 17th IEEE International Conference on Machine Learning and Applications: Special Session on Machine Learning Algorithms, Systems and Applications</i>, December, 2018, Orlando, Florida, USA. (Accepted for publication.)</p>
 
-**Abstract**
+<button class="unstyled-button"  onclick="toggle('a4')">Abstract</button></p>
+<div style="display:none" id="a4">
 <p align="justify">Abstract—Outlier detection has been studied in many domains. Outliers arise due to different reasons such as mechanical issues, fraudulent behavior, and human error. In this paper, we propose an unsupervised approach for outlier detection in a sequence dataset. The proposed approach combines sequential pattern mining, cluster analysis and a minimum spanning tree algorithm in order to identify clusters of outliers. Initially, the sequential pattern mining is used to extract frequent sequential patterns. Next the extracted patterns are clustered into groups of similar patterns. Finally the minimum spanning tree algorithm is used to find groups of outliers. The proposed approach has been evaluated on two different real datasets, i.e., smart meter data and video session data. The obtained results have shown that our approach can be applied to narrow down the space of events to a set of potential outliers and facilitate domain experts in further analysis and identification of system level issues.</p>
+ </div>
+ 
+<button class="unstyled-button"  onclick="toggle('a5')">Abstract</button></p>
+<div style="display:none" id="a5">
+  <p align="justify"></p>
+  </div>
+<button class="unstyled-button"  onclick="toggle('a6')">Abstract</button></p>
+<div style="display:none" id="a6">
+    <p align="justify"></p>
+  </div>
+<button class="unstyled-button"  onclick="toggle('a7')">Abstract</button></p>
+<div style="display:none" id="a7">
+  <p align="justify"></p>
+  </div>
