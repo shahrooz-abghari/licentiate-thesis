@@ -1,5 +1,5 @@
 <!--h3 style="text-align:center;color:#606c71;"><b>Licentiate Thesis</b></h3-->
-<h1 style="text-align:left;color:#606c71;margin-bottom: 0px;"><b>Outlier Detection Analysis:</b></h1>
+<h1 style="text-align:left;color:#606c71;margin-bottom: 0px;">Outlier Detection Analysis:</h1>
 <h2 style="text-align:left;color:#606c71;margin-top: 2px;">Approaches for Identifying Deviating Behaviors in Real-world</h2>
 
 **Abstract**
