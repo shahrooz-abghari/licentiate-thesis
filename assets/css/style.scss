@@ -21,20 +21,22 @@ footer {
     margin: 0 0;
 }
 
+.fi {
+  font-size:24px;
+  color: white;
+}
+
+.fi:hover {
+    opacity: 0.7;
+}
+
 .ai {
+  color: white;
   margin: 5px 2px;
 }
 
 .ai:hover {
     opacity: 0.7;
-}
-
-.ai-orcid-square {
-  color: white;
-}
-
-.ai-google-scholar {
-  color: white;
 }
 
 .t-header {
