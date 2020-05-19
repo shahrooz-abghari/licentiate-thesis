@@ -94,7 +94,7 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Higher order mining for monitoring district seating substations". <i>Journal of Data Science and Analytics,</i> (The paper is an extention of paper.). 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Higher order mining for monitoring district seating substations". <i>Journal of Data Science and Analytics,</i> (The paper is the extention of paper 8.). 
 </p>
 </li> 
 
