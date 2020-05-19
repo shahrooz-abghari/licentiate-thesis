@@ -2,7 +2,7 @@
 <!--h1 style="text-align:left;color:#606c71;margin-bottom: 0px;">Outlier Detection Analysis:</h1>
 <h2 style="text-align:left;color:#606c71;margin-top: 2px;">Approaches for Identifying Deviating Behaviors in Real-world</h2-->
 **Abstract**
-<p align="justify">Will be provided later.</p>
+<p align="justify">The abstract will be provided soon.</p>
 
 **Thesis description and author contribution**
 <p align="justify">This dissertation consists of seven number of published or publishable papers. The author has been the main driver or one of the main drivers of all the publications. The author has planned the studies, designed and conducted the experiments, preformed the analyses, and written the manuscripts.</p>
@@ -10,7 +10,7 @@
 The complete dissertation can be downloaded as a PDF.
 
 **Included papers**
-<ul>
+<ol>
 <li>
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029">10.1016/J.ESWA.2013.04.029</a> - 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765">[sciencedirect]</a></strong></p>
@@ -107,4 +107,4 @@ The complete dissertation can be downloaded as a PDF.
 </p>  
 </li>
 
-</ul>
+</ol>
