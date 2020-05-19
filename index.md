@@ -2,16 +2,12 @@
 <!--h1 style="text-align:left;color:#606c71;margin-bottom: 0px;">Outlier Detection Analysis:</h1>
 <h2 style="text-align:left;color:#606c71;margin-top: 2px;">Approaches for Identifying Deviating Behaviors in Real-world</h2-->
 **Abstract**
-<p align="justify">This thesis explores the data modeling for outlier detection techniques in three different application domains: <i>maritime surveillance</i>, <i>district heating</i>, and <i>online media and sequence datasets</i>. The proposed models are evaluated and validated under different experimental scenarios, taking into account specific characteristics and setups of the different domains.</p> 
-
-<p align="justify">Outlier detection has been studied and applied in many domains. Outliers arise due to different reasons such as fraudulent activities, structural defects, health problems, and mechanical issues. The detection of outliers is a challenging task that can reveal system faults, fraud, and save people's lives. Outlier detection techniques are often  domain-specific. The main challenge in outlier detection relates to modeling the normal behavior in order to identify abnormalities. The choice of model is important, i.e., an incorrect choice of data model can lead to poor results. This requires a good understanding and interpretation of the data, the constraints, and the requirements of the problem domain. Outlier detection is largely an unsupervised problem due to unavailability of labeled data and the fact that labeled data is expensive.</p>
-
-<p align="justify">We have studied and applied a combination of both machine learning and data mining techniques to build data-driven and domain-oriented outlier detection models. We have shown the importance of data preprocessing as well as feature selection in building suitable methods for data modeling. We have taken advantage  of both supervised and unsupervised techniques to create hybrid methods. For example, we have proposed a rule-based outlier detection system based on <i>open data</i> for the maritime surveillance domain. Furthermore, we have combined cluster analysis and regression to identify manual changes in the heating systems at the building level. Sequential pattern mining for identifying contextual and collective outliers in online media data have also been exploited. In addition, we have proposed a minimum spanning tree clustering technique for detection of groups of outliers in online media and sequence data. The proposed models have been shown to be capable of explaining the underlying properties of the detected outliers. This can facilitate domain experts in narrowing down the scope of analysis and understanding the reasons of such anomalous behaviors. We have also investigated the reproducibility of the proposed models in similar application domains.</p>
+<p align="justify">Will be provided later.</p>
 
 **Thesis description and author contribution**
-<p align="justify"></p>
+<p align="justify">This dissertation consists of seven number of published or publishable papers. The author has been the main driver or one of the main drivers of all the publications. The author has planned the studies, designed and conducted the experiments, preformed the analyses, and written the manuscripts.</p>
 
-[PDF]()
+The complete dissertation can be downloaded as a PDF.
 
 **Included papers**
 <ul>
