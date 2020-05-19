@@ -81,7 +81,7 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i> <strong><a href="./doc/paper6.pdf">[PDF]</a></strong></p>
+<p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i> <strong><a href="./doc/paper6.pdf">[PDF]</a></strong>
 </p>
   
 <button id="b5" class="unstyled-button"  onclick="toggle('a5');update_button('b5')"><u>Abstract</u></button>
@@ -94,7 +94,7 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Higher order mining for monitoring district seating substations". <i>Journal of Data Science and Analytics,</i> (The paper is the extention of <a id="#p-8">Paper 8</a>.). 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Higher order mining for monitoring district seating substations". <i>Journal of Data Science and Analytics,</i> (The paper is the extention of <aid="#p-8">Paper 8</a>.). 
 </p>
 
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
