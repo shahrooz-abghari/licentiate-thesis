@@ -81,7 +81,7 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i> <strong><a href="./doc/paper6.pdf">[PDF]</a></strong>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i> <strong><a href="./doc/paper6.pdf">[PDF]</a></strong>
 </p>
   
 <button id="b5" class="unstyled-button"  onclick="toggle('a5');update_button('b5')"><u>Abstract</u></button>
@@ -112,7 +112,7 @@ The complete dissertation can be downloaded as a PDF.
 <ol start="8">
 
 <li>
-<p align="justify" id="p-8"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets" In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
+<p align="justify" id="p-8"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets" In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
 <strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong>
 </p> 
   
