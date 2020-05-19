@@ -19,7 +19,6 @@ footer {
     text-align: left;
     display: block;
     margin: 0 0;
-    padding: 0 0;
 }
 
 .fa {
@@ -43,7 +42,8 @@ footer {
 .t-header {
   margin: auto;
   width: 60%;
-  padding: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .unstyled-button {
