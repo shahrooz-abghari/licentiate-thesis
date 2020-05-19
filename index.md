@@ -12,8 +12,8 @@ The complete dissertation can be downloaded as a PDF.
 **Included papers**
 <ol>
 <li>
-<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029">10.1016/J.ESWA.2013.04.029</a> - 
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765">[sciencedirect]</a></strong></p>
+<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029" target="_blank">10.1016/J.ESWA.2013.04.029</a> - 
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765" target="_blank">[sciencedirect]</a></strong></p>
   
 <button id="b1" class="unstyled-button"  onclick="toggle('a1');update_button('b1')"><u>Abstract</u></button>
 <div style="display:none" id="a1">
@@ -25,8 +25,8 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088">10.1016/J.EGYPRO.2017.05.088</a> - 
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956">[sciencedirect]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[sciencedirect]</a></strong></p>
 <p>Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.</p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
@@ -40,7 +40,7 @@ The complete dissertation can be downloaded as a PDF.
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". In <i>Association for Computing Machinery’s Special Interest Group on Knowledge Discovery and Data Mining: Workshop On Outlier Detection De-constructed</i>, 2018, London, UK.
-<a href="https://www.andrew.cmu.edu/user/lakoglu/odd/index.html">[ODD v5.0 Workshop]</a> - 
+<a href="https://www.andrew.cmu.edu/user/lakoglu/odd/index.html" target="_blank">[ODD v5.0 Workshop]</a> - 
 <strong><a href="./doc/paper3.pdf">[PDF]</a></strong></p>
 
 <button id="b3" class="unstyled-button"  onclick="toggle('a3');update_button('b3')"><u>Abstract</u></button>
@@ -53,8 +53,8 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i> (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182">10.1109/ICMLA.2018.00182</a> - 
-<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207">[IEEE]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i> (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182" target="_blank">10.1109/ICMLA.2018.00182</a> - 
+<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207" target="_blank">[IEEE]</a></strong></p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
 <div style="display:none" id="a4">
@@ -66,8 +66,8 @@ The complete dissertation can be downloaded as a PDF.
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i> Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1">10.1007/978-3-030-43887-6_1</a> - 
-<strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1">[Springer]</a></strong>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i> Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1" target="_blank">10.1007/978-3-030-43887-6_1</a> - 
+<strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1" target="_blank">[Springer]</a></strong>
 
 </p>
   
@@ -112,8 +112,8 @@ The complete dissertation can be downloaded as a PDF.
 
 <ol start="8">
 
-<li>  <p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets" In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053">10.1109/DSAA.2019.00053</a> - 
-<strong><a href="https://ieeexplore.ieee.org/document/8964173">[IEEE]</a></strong>
+<li>  <p align="justify"><b>Abghari, S</b>. Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets" In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
+<strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong>
 </li>  
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
