@@ -106,7 +106,9 @@ The complete dissertation can be downloaded as a PDF.
   <br>
 </p>  
 </li>
+</ol>
 
+**Othe related papers**
 
 <ol start="8">
 
@@ -115,7 +117,7 @@ The complete dissertation can be downloaded as a PDF.
 </li>  
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
-<div style="display:none" id="a7">
+<div style="display:none" id="a8">
   <p align="justify">We propose a higher order mining (HOM) approach for modelling, monitoring and analyzing district heating (DH) substations' operational behaviour and performance. HOM is concerned with mining over patterns rather than primary or raw data. The proposed approach uses a combination of different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, a substation's operational behaviour is modeled by extracting weekly patterns and performing clustering analysis. The substation's performance is monitored by assessing its modeled behaviour for every two consecutive weeks. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The results of the study show that our method is robust for detecting deviating and sub-optimal behaviours of DH substations. In addition, the proposed method can facilitate domain experts in the interpretation and understanding of the substations' behaviour and performance by providing different data analysis and visualization techniques.</p>
 </div>
 <p>
