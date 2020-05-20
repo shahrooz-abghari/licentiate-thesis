@@ -135,7 +135,7 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i> 2018 6th Swedish Workshop on Data Science (SweDS 2018). <a "http://sweds2018.cs.umu.se/"></a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i> 2018 6th Swedish Workshop on Data Science (SweDS 2018)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank"></a>[SweDS 2018]</strong></p>
 
 <button id="b10" class="unstyled-button" onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
 <div style="display:none" id="a10">
@@ -147,14 +147,15 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
   <br>
 </p> 
 
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017).
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank"></a>[SweDS 2018]</strong></p>
 
 
 <button id="b11" class="unstyled-button" onclick="toggle('a11');update_button('b11')"><u>Abstract</u></button>
 <div style="display:none" id="a11">
 <p align="justify">Online video service providers (OVSPs) continuously improve their services to satisfy the subscribers’ expectation. This requires analysing massive amount of log files and different video event types. We use sequential pattern mining to analyse video data sequences to detect unexpected issues that can highly affect the subscribers’ experience. The video session data has temporal order and contains detailed information regarding which video is requested, what type of device is used for watching the video, and the list of occurrences of all event types.
-<p align="justify">The initial assumption with using sequential pattern mining is that most frequent sequential patterns (MFSPs) can be considered as normal system behaviour, while the others, non-most frequent sequential patterns (NMFSPs), can be potential anomalies. By performing clustering analysis, the MFSPs can be grouped based on their similarities. Finally, NMFSPs can be evaluated by the created model. The goodness-of-fit of the NMFSPs can be identified by applying an internal cluster validation measure such as Silhouette Index (SI).
-The proposed method has six steps as follows:
+<p align="justify">The initial assumption with using sequential pattern mining is that most frequent sequential patterns (MFSPs) can be considered as normal system behaviour, while the others, non-most frequent sequential patterns (NMFSPs), can be potential anomalies. By performing clustering analysis, the MFSPs can be grouped based on their similarities. Finally, NMFSPs can be evaluated by the created model. The goodness-of-fit of the NMFSPs can be identified by applying an internal cluster validation measure such as Silhouette Index (SI).</p>
+
+<p align="justify">The proposed method has six steps as follows:
 <ol>
 <li> The video sessions are divided into equal-sized segments, e.g., daily.</li>
 <li> The PrefixSpan algorithm is used to extract frequent sequential patterns. Such sequential patterns can lead us to detect collective anomalies, i.e., a collection of related data points (event types) assumed to be anomalous based on their occurrences together.</li>
@@ -162,6 +163,7 @@ The proposed method has six steps as follows:
 <li> The frequent sequential patterns are divided into two groups based on how frequent they are. Those patterns that occurred in more than one segment are named MFSPs with initial assumption that they are normal. The NMFSPs, on the other hand can be assumed as potentially anomalies.</li>
 <li> MFSPs are clustered into partitions based on their similarities.</li>
 <li> The clustering model built in the previous step is used to analyse the NMFSPs by matching each pattern into a cluster. To evaluate the goodness-of-fit of each NMFSP, SI is used. The SI has a range of [-1, 1]. A score 1 shows the NMFSP is assigned to a correct cluster. When score is about zero, this indicates that the NMFSP is on the decision boundary between two neighbouring clusters. Finally, a score close to -1 indicates the pattern is misclassified and assigned to an erroneous cluster, i.e., such NMFSP can be identified as anomaly.</li></ol></p>
+
 <p align="justify">The proposed approach is applied on two months (October-November 2016) of data for a large OVSP company. The results show an increase in the number of quality adaptation events for many video sessions in both months. Such surge in the number of video streaming performance events during video sessions can be related to the fact that many viewers simultaneously try to watch the same video (e.g., a special live show) or an issue at the system level. In both cases, additional analysis by the company experts is needed for better understanding and interpretation of the results.</p>
 </div>
 <p>
