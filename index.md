@@ -158,7 +158,7 @@
 
 <li>
 <p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
-Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS]</a>
+Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS 2019]</a>
 </strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
