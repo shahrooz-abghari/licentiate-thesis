@@ -7,7 +7,7 @@
 **PhD dissertation description and author contribution**
 <p align="justify">This dissertation consists of seven number of published or publishable papers. The author has been the main driver or one of the main drivers of all the publications. The author has planned the studies, designed and conducted the experiments, preformed the analyses, and written the manuscripts.</p>
 
-<>(The complete dissertation can be downloaded as a PDF.)
+<> (The complete dissertation can be downloaded as a PDF.)
 
 **Included papers**
 <ol>
