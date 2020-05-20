@@ -145,7 +145,8 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 </div>
 <p>
   <br>
-</p> 
+</p>
+</li>
 
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank"></a>[SweDS 2018]</strong></p>
 
@@ -157,17 +158,19 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 
 <p align="justify">The proposed method has six steps as follows:
 <ol>
-<li> The video sessions are divided into equal-sized segments, e.g., daily.</li>
-<li> The PrefixSpan algorithm is used to extract frequent sequential patterns. Such sequential patterns can lead us to detect collective anomalies, i.e., a collection of related data points (event types) assumed to be anomalous based on their occurrences together.</li>
-<li> The extracted frequent sequential patterns are mapped with the video sessions and extra information related to date and time such as workday or weekend for finding contextual anomalies will be added to them.</li>
-<li> The frequent sequential patterns are divided into two groups based on how frequent they are. Those patterns that occurred in more than one segment are named MFSPs with initial assumption that they are normal. The NMFSPs, on the other hand can be assumed as potentially anomalies.</li>
-<li> MFSPs are clustered into partitions based on their similarities.</li>
-<li> The clustering model built in the previous step is used to analyse the NMFSPs by matching each pattern into a cluster. To evaluate the goodness-of-fit of each NMFSP, SI is used. The SI has a range of [-1, 1]. A score 1 shows the NMFSP is assigned to a correct cluster. When score is about zero, this indicates that the NMFSP is on the decision boundary between two neighbouring clusters. Finally, a score close to -1 indicates the pattern is misclassified and assigned to an erroneous cluster, i.e., such NMFSP can be identified as anomaly.</li></ol></p>
+<li><p align="justify">The video sessions are divided into equal-sized segments, e.g., daily.</p></li>
+<li><p align="justify">The PrefixSpan algorithm is used to extract frequent sequential patterns. Such sequential patterns can lead us to detect collective anomalies, i.e., a collection of related data points (event types) assumed to be anomalous based on their occurrences together.</p></li>
+<li><p align="justify">The extracted frequent sequential patterns are mapped with the video sessions and extra information related to date and time such as workday or weekend for finding contextual anomalies will be added to them.</p></li>
+<li><p align="justify">The frequent sequential patterns are divided into two groups based on how frequent they are. Those patterns that occurred in more than one segment are named MFSPs with initial assumption that they are normal. The NMFSPs, on the other hand can be assumed as potentially anomalies.</p></li>
+<li><p align="justify">MFSPs are clustered into partitions based on their similarities.</p></li>
+<li><p align="justify">The clustering model built in the previous step is used to analyse the NMFSPs by matching each pattern into a cluster. To evaluate the goodness-of-fit of each NMFSP, SI is used. The SI has a range of [-1, 1]. A score 1 shows the NMFSP is assigned to a correct cluster. When score is about zero, this indicates that the NMFSP is on the decision boundary between two neighbouring clusters. Finally, a score close to -1 indicates the pattern is misclassified and assigned to an erroneous cluster, i.e., such NMFSP can be identified as anomaly.</p></li>
+</ol></p>
 
 <p align="justify">The proposed approach is applied on two months (October-November 2016) of data for a large OVSP company. The results show an increase in the number of quality adaptation events for many video sessions in both months. Such surge in the number of video streaming performance events during video sessions can be related to the fact that many viewers simultaneously try to watch the same video (e.g., a special live show) or an issue at the system level. In both cases, additional analysis by the company experts is needed for better understanding and interpretation of the results.</p>
 </div>
 <p>
   <br>
-</p> 
+</p>
+</li>
 
 </ol>
