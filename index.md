@@ -134,4 +134,38 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 </p>  
 </li>
 
+<li>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i> 2018 6th Swedish Workshop on Data Science (SweDS 2018). <a "http://sweds2018.cs.umu.se/"></a></p>
+
+<button id="b10" class="unstyled-button" onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
+<div style="display:none" id="a10">
+<p align="justify">We propose an unsupervised approach for outlier detection in a sequence dataset. Outlier detection has been studied in many domains. Outliers arise due to different reasons such as mechanical issues, fraudulent behavior, and human error. Our approach consists of a preprocessing step and three main steps: 1) Sequential patterns mining, 2) Frequent sequential pattern clustering, and 3) Minimum spanning tree (MST) building and outlier detection analysis.</p>
+<p align="justify">In the preprocessing step, Data segmentation, data is partitioned into equal-sized segments in order to identify sequential patterns. The first step, Sequential patterns mining, concerns the extraction of frequent sequential patterns and mapping them with records of a sequence dataset. The PrefixSpan algorithm is used to find frequent sequential patterns from each segment. The extracted patterns can lead us to find collective outliers. Furthermore, the extracted patterns are mapped with the source they come from. This can help us to find additional information about the patterns such as pattern frequency and its occurrence time. The latter is useful for finding a contextual outliers. In the second step, Frequent sequential pattern clustering, the selected patterns are clustered by applying affinity propagation (AP) algorithm. AP can estimate the number of clusters from data. In the third step, Minimum spanning tree building and outlier detection analysis, the exemplars of the clusters are used for building a complete weighted graph, where vertices of the graph are the exemplars and edges are the distance between them. The aim is to determine a subset of edges that connect all the vertices together without any cycles that has the minimum total edge weight. In order to identify outliers, the longest edge of the tree is removed. The constructed MST will be replaced by the created sub-trees. The sub-trees are ranked from smallest to largest based on the number of items they match within the sequence dataset. Here the smallest subtrees can be regarded as outliers.</p>
+<p align="justify">The proposed approach can be used to facilitate the domain experts in identification of outliers. Building the minimum spanning tree on top the clustering solution can lead to identifying clusters of outliers. This can reduce the time complexity of the proposed approach. The proposed approach has been evaluated in two different experimental scenarios. Namely, it has been applied on two different sequence datasets: smart meter data and video session data. Both datasets contain sequences of event types that either shows the operational status of a smart meter or the current action that takes place in a viewer’s video session. The results of the experiments on the smart meter data are more comprehensible compared to the video session data. The main reason is the fact that the event types in smart meters are explicitly detailed, explaining the status of the devices. However, in video session data the event types are general which requires more investigation and experts’ knowledge in order to detect video sessions with quality issues. The validation of the results on video session data by the domain experts showed that 67% of the labeled sessions by the proposed approach were correct.</p>
+</div>
+<p>
+  <br>
+</p> 
+
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017).
+
+
+<button id="b11" class="unstyled-button" onclick="toggle('a11');update_button('b11')"><u>Abstract</u></button>
+<div style="display:none" id="a11">
+<p align="justify">Online video service providers (OVSPs) continuously improve their services to satisfy the subscribers’ expectation. This requires analysing massive amount of log files and different video event types. We use sequential pattern mining to analyse video data sequences to detect unexpected issues that can highly affect the subscribers’ experience. The video session data has temporal order and contains detailed information regarding which video is requested, what type of device is used for watching the video, and the list of occurrences of all event types.
+<p align="justify">The initial assumption with using sequential pattern mining is that most frequent sequential patterns (MFSPs) can be considered as normal system behaviour, while the others, non-most frequent sequential patterns (NMFSPs), can be potential anomalies. By performing clustering analysis, the MFSPs can be grouped based on their similarities. Finally, NMFSPs can be evaluated by the created model. The goodness-of-fit of the NMFSPs can be identified by applying an internal cluster validation measure such as Silhouette Index (SI).
+The proposed method has six steps as follows:
+<ol>
+<li> The video sessions are divided into equal-sized segments, e.g., daily.</li>
+<li> The PrefixSpan algorithm is used to extract frequent sequential patterns. Such sequential patterns can lead us to detect collective anomalies, i.e., a collection of related data points (event types) assumed to be anomalous based on their occurrences together.</li>
+<li> The extracted frequent sequential patterns are mapped with the video sessions and extra information related to date and time such as workday or weekend for finding contextual anomalies will be added to them.</li>
+<li> The frequent sequential patterns are divided into two groups based on how frequent they are. Those patterns that occurred in more than one segment are named MFSPs with initial assumption that they are normal. The NMFSPs, on the other hand can be assumed as potentially anomalies.</li>
+<li> MFSPs are clustered into partitions based on their similarities.</li>
+<li> The clustering model built in the previous step is used to analyse the NMFSPs by matching each pattern into a cluster. To evaluate the goodness-of-fit of each NMFSP, SI is used. The SI has a range of [-1, 1]. A score 1 shows the NMFSP is assigned to a correct cluster. When score is about zero, this indicates that the NMFSP is on the decision boundary between two neighbouring clusters. Finally, a score close to -1 indicates the pattern is misclassified and assigned to an erroneous cluster, i.e., such NMFSP can be identified as anomaly.</li></ol></p>
+<p align="justify">The proposed approach is applied on two months (October-November 2016) of data for a large OVSP company. The results show an increase in the number of quality adaptation events for many video sessions in both months. Such surge in the number of video streaming performance events during video sessions can be related to the fact that many viewers simultaneously try to watch the same video (e.g., a special live show) or an issue at the system level. In both cases, additional analysis by the company experts is needed for better understanding and interpretation of the results.</p>
+</div>
+<p>
+  <br>
+</p> 
+
 </ol>
