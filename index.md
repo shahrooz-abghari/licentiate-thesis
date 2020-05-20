@@ -77,7 +77,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i>2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i> - <a href="./doc/paper6.pdf">[PDF]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i>2020 9th International Conference on Data Science, Technology and Applications (DATA).</i> (The paper is accpted. It will be presented on 7-9 July 2020). - <a href="./doc/paper6.pdf">[PDF]</a></p>
   
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
 <div style="display:none" id="a6">
@@ -107,7 +107,7 @@
 <ol start="8">
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i>2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank">[SweDS 2017]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i>2017 5th Swedish Workshop on Data Science (SweDS)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank">[SweDS 2017]</a></strong></p>
 
 <button id="b11" class="unstyled-button" onclick="toggle('a11');update_button('b11')"><u>Abstract</u></button>
 <div style="display:none" id="a11">
@@ -128,7 +128,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i>2018 6th Swedish Workshop on Data Science (SweDS 2018)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank">[SweDS 2018]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i>2018 6th Swedish Workshop on Data Science (SweDS)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank">[SweDS 2018]</a></strong></p>
 
 <button id="b10" class="unstyled-button" onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
 <div style="display:none" id="a10">
@@ -158,7 +158,7 @@
 
 <li>
 <p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
-Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS 2019]</a>
+Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS]</a>
 </strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
