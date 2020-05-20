@@ -105,49 +105,6 @@
 **Other related papers**
 
 <ol start="8">
-
-<li>
-<p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
-Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">SAIS 2019</a>
-</strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
-  
-<button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
-<div style="display:none" id="a8">
-<p align="justify">In this paper, we describe an ongoing study for detecting deviating behaviour of district heating (DH) substations. We propose an approach for modelling, monitoring and analyzing the DH substations operational behaviour on a weekly basis. The proposed approach combines sequential pattern mining together with clustering analysis and minimum spanning tree to identify outliers. Our goal is to detect changes in operational behaviour of substations that can decrease their efficiency.</p>
-</div>
-<p>
-  <br>
-</p>  
-</li>
-
-<li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining for monitoring district seating substations". In <i>2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
-<strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper9.pdf">[PDF]</a>
-</p> 
-  
-<button id="b9" class="unstyled-button"  onclick="toggle('a9');update_button('b9')"><u>Abstract</u></button>
-<div style="display:none" id="a9">
-<p align="justify">We propose a higher order mining (HOM) approach for modelling, monitoring and analyzing district heating (DH) substations' operational behaviour and performance. HOM is concerned with mining over patterns rather than primary or raw data. The proposed approach uses a combination of different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, a substation's operational behaviour is modeled by extracting weekly patterns and performing clustering analysis. The substation's performance is monitored by assessing its modeled behaviour for every two consecutive weeks. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The results of the study show that our method is robust for detecting deviating and sub-optimal behaviours of DH substations. In addition, the proposed method can facilitate domain experts in the interpretation and understanding of the substations' behaviour and performance by providing different data analysis and visualization techniques.</p>
-</div>
-<p>
-  <br>
-</p>  
-</li>
-
-<li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i>2018 6th Swedish Workshop on Data Science (SweDS 2018)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank">[SweDS 2018]</a></strong></p>
-
-<button id="b10" class="unstyled-button" onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
-<div style="display:none" id="a10">
-<p align="justify">We propose an unsupervised approach for outlier detection in a sequence dataset. Outlier detection has been studied in many domains. Outliers arise due to different reasons such as mechanical issues, fraudulent behavior, and human error. Our approach consists of a preprocessing step and three main steps: 1) Sequential patterns mining, 2) Frequent sequential pattern clustering, and 3) Minimum spanning tree (MST) building and outlier detection analysis.</p>
-<p align="justify">In the preprocessing step, Data segmentation, data is partitioned into equal-sized segments in order to identify sequential patterns. The first step, Sequential patterns mining, concerns the extraction of frequent sequential patterns and mapping them with records of a sequence dataset. The PrefixSpan algorithm is used to find frequent sequential patterns from each segment. The extracted patterns can lead us to find collective outliers. Furthermore, the extracted patterns are mapped with the source they come from. This can help us to find additional information about the patterns such as pattern frequency and its occurrence time. The latter is useful for finding a contextual outliers. In the second step, Frequent sequential pattern clustering, the selected patterns are clustered by applying affinity propagation (AP) algorithm. AP can estimate the number of clusters from data. In the third step, Minimum spanning tree building and outlier detection analysis, the exemplars of the clusters are used for building a complete weighted graph, where vertices of the graph are the exemplars and edges are the distance between them. The aim is to determine a subset of edges that connect all the vertices together without any cycles that has the minimum total edge weight. In order to identify outliers, the longest edge of the tree is removed. The constructed MST will be replaced by the created sub-trees. The sub-trees are ranked from smallest to largest based on the number of items they match within the sequence dataset. Here the smallest subtrees can be regarded as outliers.</p>
-<p align="justify">The proposed approach can be used to facilitate the domain experts in identification of outliers. Building the minimum spanning tree on top the clustering solution can lead to identifying clusters of outliers. This can reduce the time complexity of the proposed approach. The proposed approach has been evaluated in two different experimental scenarios. Namely, it has been applied on two different sequence datasets: smart meter data and video session data. Both datasets contain sequences of event types that either shows the operational status of a smart meter or the current action that takes place in a viewer’s video session. The results of the experiments on the smart meter data are more comprehensible compared to the video session data. The main reason is the fact that the event types in smart meters are explicitly detailed, explaining the status of the devices. However, in video session data the event types are general which requires more investigation and experts’ knowledge in order to detect video sessions with quality issues. The validation of the results on video session data by the domain experts showed that 67% of the labeled sessions by the proposed approach were correct.</p>
-</div>
-<p>
-  <br>
-</p>
-</li>
-
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i>2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank">[SweDS 2017]</a></strong></p>
 
@@ -167,6 +124,49 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 <p>
   <br>
 </p>
+</li>
+
+<li>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i>2018 6th Swedish Workshop on Data Science (SweDS 2018)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank">[SweDS 2018]</a></strong></p>
+
+<button id="b10" class="unstyled-button" onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
+<div style="display:none" id="a10">
+<p align="justify">We propose an unsupervised approach for outlier detection in a sequence dataset. Outlier detection has been studied in many domains. Outliers arise due to different reasons such as mechanical issues, fraudulent behavior, and human error. Our approach consists of a preprocessing step and three main steps: 1) Sequential patterns mining, 2) Frequent sequential pattern clustering, and 3) Minimum spanning tree (MST) building and outlier detection analysis.</p>
+<p align="justify">In the preprocessing step, Data segmentation, data is partitioned into equal-sized segments in order to identify sequential patterns. The first step, Sequential patterns mining, concerns the extraction of frequent sequential patterns and mapping them with records of a sequence dataset. The PrefixSpan algorithm is used to find frequent sequential patterns from each segment. The extracted patterns can lead us to find collective outliers. Furthermore, the extracted patterns are mapped with the source they come from. This can help us to find additional information about the patterns such as pattern frequency and its occurrence time. The latter is useful for finding a contextual outliers. In the second step, Frequent sequential pattern clustering, the selected patterns are clustered by applying affinity propagation (AP) algorithm. AP can estimate the number of clusters from data. In the third step, Minimum spanning tree building and outlier detection analysis, the exemplars of the clusters are used for building a complete weighted graph, where vertices of the graph are the exemplars and edges are the distance between them. The aim is to determine a subset of edges that connect all the vertices together without any cycles that has the minimum total edge weight. In order to identify outliers, the longest edge of the tree is removed. The constructed MST will be replaced by the created sub-trees. The sub-trees are ranked from smallest to largest based on the number of items they match within the sequence dataset. Here the smallest subtrees can be regarded as outliers.</p>
+<p align="justify">The proposed approach can be used to facilitate the domain experts in identification of outliers. Building the minimum spanning tree on top the clustering solution can lead to identifying clusters of outliers. This can reduce the time complexity of the proposed approach. The proposed approach has been evaluated in two different experimental scenarios. Namely, it has been applied on two different sequence datasets: smart meter data and video session data. Both datasets contain sequences of event types that either shows the operational status of a smart meter or the current action that takes place in a viewer’s video session. The results of the experiments on the smart meter data are more comprehensible compared to the video session data. The main reason is the fact that the event types in smart meters are explicitly detailed, explaining the status of the devices. However, in video session data the event types are general which requires more investigation and experts’ knowledge in order to detect video sessions with quality issues. The validation of the results on video session data by the domain experts showed that 67% of the labeled sessions by the proposed approach were correct.</p>
+</div>
+<p>
+  <br>
+</p>
+</li>
+
+
+<li>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining for monitoring district seating substations". In <i>2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
+<strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper9.pdf">[PDF]</a>
+</p> 
+  
+<button id="b9" class="unstyled-button"  onclick="toggle('a9');update_button('b9')"><u>Abstract</u></button>
+<div style="display:none" id="a9">
+<p align="justify">We propose a higher order mining (HOM) approach for modelling, monitoring and analyzing district heating (DH) substations' operational behaviour and performance. HOM is concerned with mining over patterns rather than primary or raw data. The proposed approach uses a combination of different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, a substation's operational behaviour is modeled by extracting weekly patterns and performing clustering analysis. The substation's performance is monitored by assessing its modeled behaviour for every two consecutive weeks. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The results of the study show that our method is robust for detecting deviating and sub-optimal behaviours of DH substations. In addition, the proposed method can facilitate domain experts in the interpretation and understanding of the substations' behaviour and performance by providing different data analysis and visualization techniques.</p>
+</div>
+<p>
+  <br>
+</p>  
+</li>
+
+<li>
+<p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
+Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">SAIS 2019</a>
+</strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
+  
+<button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
+<div style="display:none" id="a8">
+<p align="justify">In this paper, we describe an ongoing study for detecting deviating behaviour of district heating (DH) substations. We propose an approach for modelling, monitoring and analyzing the DH substations operational behaviour on a weekly basis. The proposed approach combines sequential pattern mining together with clustering analysis and minimum spanning tree to identify outliers. Our goal is to detect changes in operational behaviour of substations that can decrease their efficiency.</p>
+</div>
+<p>
+  <br>
+</p>  
 </li>
 
 </ol>
