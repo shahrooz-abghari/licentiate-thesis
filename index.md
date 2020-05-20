@@ -13,7 +13,7 @@
 <ol>
 <li>
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029" target="_blank">10.1016/J.ESWA.2013.04.029</a> - 
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765" target="_blank">[sciencedirect]</a></strong> - <a href="./doc/paper1.pdf">[PDF]</a></p>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper1.pdf">[PDF]</a></p>
   
 <button id="b1" class="unstyled-button"  onclick="toggle('a1');update_button('b1')"><u>Abstract</u></button>
 <div style="display:none" id="a1">
@@ -52,7 +52,7 @@
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[sciencedirect]</a></strong> - <a href="./doc/paper2.pdf">[PDF]</a></p>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper2.pdf">[PDF]</a></p>
 <p>The paper was presetned at the <i> 2016 15th International Symposium on District Heating and Cooling</i>, Seoul, Korea.</p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
@@ -107,7 +107,7 @@
 <ol start="8">
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i>2017 5th Swedish Workshop on Data Science (SweDS)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank">[SweDS 2017]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i>2017 5th Swedish Workshop on Data Science (SweDS)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank">[SweDS 2017 Workshop]</a></strong></p>
 
 <button id="b11" class="unstyled-button" onclick="toggle('a11');update_button('b11')"><u>Abstract</u></button>
 <div style="display:none" id="a11">
@@ -128,7 +128,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i>2018 6th Swedish Workshop on Data Science (SweDS)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank">[SweDS 2018]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., & Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Mining Sequence Datasets". In <i>2018 6th Swedish Workshop on Data Science (SweDS)</i>. <strong><a href="http://sweds2018.cs.umu.se/" target="_blank">[SweDS 2018 Workshop]</a></strong></p>
 
 <button id="b10" class="unstyled-button" onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
 <div style="display:none" id="a10">
@@ -158,7 +158,7 @@
 
 <li>
 <p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
-Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS 2019]</a>
+Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS 2019 Workshop]</a>
 </strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
