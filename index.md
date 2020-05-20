@@ -94,7 +94,7 @@
 
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
 <div style="display:none" id="a7">
-  <p align="justify">In this study, we propose a higher order mining (HOM) approach that can be used for analysis of real-world datasets. The proposed approach consists of several different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, clustering analysis is performed on the extracted patterns to model the behavior modes of the studied phenomenon for a given time period. The built clustering models corresponding to every two consecutive time periods can further be assessed for mining changes in the monitored behaviour. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The validity and the potential of the proposed approach has been demonstrated on a real-world dataset originating from a network of district heating (DH) substations. The obtained results show that our approach is capable of detecting deviating and sub-optimal behaviours of the DH substations.</p>
+<p align="justify">In this study, we propose a higher order mining (HOM) approach that can be used for analysis of real-world datasets. The proposed approach consists of several different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, clustering analysis is performed on the extracted patterns to model the behavior modes of the studied phenomenon for a given time period. The built clustering models corresponding to every two consecutive time periods can further be assessed for mining changes in the monitored behaviour. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The validity and the potential of the proposed approach has been demonstrated on a real-world dataset originating from a network of district heating (DH) substations. The obtained results show that our approach is capable of detecting deviating and sub-optimal behaviours of the DH substations.</p>
 </div>
 <p>
   <br>
@@ -113,7 +113,7 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
 <div style="display:none" id="a8">
-  <p align="justify">In this paper, we describe an ongoing study for detecting deviating behaviour of district heating (DH) substations. We propose an approach for modelling, monitoring and analyzing the DH substations operational behaviour on a weekly basis. The proposed approach combines sequential pattern mining together with clustering analysis and minimum spanning tree to identify outliers. Our goal is to detect changes in operational behaviour of substations that can decrease their efficiency.</p>
+<p align="justify">In this paper, we describe an ongoing study for detecting deviating behaviour of district heating (DH) substations. We propose an approach for modelling, monitoring and analyzing the DH substations operational behaviour on a weekly basis. The proposed approach combines sequential pattern mining together with clustering analysis and minimum spanning tree to identify outliers. Our goal is to detect changes in operational behaviour of substations that can decrease their efficiency.</p>
 </div>
 <p>
   <br>
@@ -127,7 +127,7 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
   
 <button id="b9" class="unstyled-button"  onclick="toggle('a9');update_button('b9')"><u>Abstract</u></button>
 <div style="display:none" id="a9">
-  <p align="justify">We propose a higher order mining (HOM) approach for modelling, monitoring and analyzing district heating (DH) substations' operational behaviour and performance. HOM is concerned with mining over patterns rather than primary or raw data. The proposed approach uses a combination of different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, a substation's operational behaviour is modeled by extracting weekly patterns and performing clustering analysis. The substation's performance is monitored by assessing its modeled behaviour for every two consecutive weeks. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The results of the study show that our method is robust for detecting deviating and sub-optimal behaviours of DH substations. In addition, the proposed method can facilitate domain experts in the interpretation and understanding of the substations' behaviour and performance by providing different data analysis and visualization techniques.</p>
+ <p align="justify">We propose a higher order mining (HOM) approach for modelling, monitoring and analyzing district heating (DH) substations' operational behaviour and performance. HOM is concerned with mining over patterns rather than primary or raw data. The proposed approach uses a combination of different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, a substation's operational behaviour is modeled by extracting weekly patterns and performing clustering analysis. The substation's performance is monitored by assessing its modeled behaviour for every two consecutive weeks. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The results of the study show that our method is robust for detecting deviating and sub-optimal behaviours of DH substations. In addition, the proposed method can facilitate domain experts in the interpretation and understanding of the substations' behaviour and performance by providing different data analysis and visualization techniques.</p>
 </div>
 <p>
   <br>
@@ -149,14 +149,13 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank"></a>[SweDS 2018]</strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank"></a>[SweDS 2017]</strong></p>
 
 <button id="b11" class="unstyled-button" onclick="toggle('a11');update_button('b11')"><u>Abstract</u></button>
 <div style="display:none" id="a11">
 <p align="justify">Online video service providers (OVSPs) continuously improve their services to satisfy the subscribers’ expectation. This requires analysing massive amount of log files and different video event types. We use sequential pattern mining to analyse video data sequences to detect unexpected issues that can highly affect the subscribers’ experience. The video session data has temporal order and contains detailed information regarding which video is requested, what type of device is used for watching the video, and the list of occurrences of all event types.
 <p align="justify">The initial assumption with using sequential pattern mining is that most frequent sequential patterns (MFSPs) can be considered as normal system behaviour, while the others, non-most frequent sequential patterns (NMFSPs), can be potential anomalies. By performing clustering analysis, the MFSPs can be grouped based on their similarities. Finally, NMFSPs can be evaluated by the created model. The goodness-of-fit of the NMFSPs can be identified by applying an internal cluster validation measure such as Silhouette Index (SI).</p>
-
-<p align="justify">The proposed method has six steps as follows:
+<p align="justify">The proposed method has six steps as follows:</p>
 <ol>
 <li><p align="justify">The video sessions are divided into equal-sized segments, e.g., daily.</p></li>
 <li><p align="justify">The PrefixSpan algorithm is used to extract frequent sequential patterns. Such sequential patterns can lead us to detect collective anomalies, i.e., a collection of related data points (event types) assumed to be anomalous based on their occurrences together.</p></li>
@@ -164,8 +163,7 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 <li><p align="justify">The frequent sequential patterns are divided into two groups based on how frequent they are. Those patterns that occurred in more than one segment are named MFSPs with initial assumption that they are normal. The NMFSPs, on the other hand can be assumed as potentially anomalies.</p></li>
 <li><p align="justify">MFSPs are clustered into partitions based on their similarities.</p></li>
 <li><p align="justify">The clustering model built in the previous step is used to analyse the NMFSPs by matching each pattern into a cluster. To evaluate the goodness-of-fit of each NMFSP, SI is used. The SI has a range of [-1, 1]. A score 1 shows the NMFSP is assigned to a correct cluster. When score is about zero, this indicates that the NMFSP is on the decision boundary between two neighbouring clusters. Finally, a score close to -1 indicates the pattern is misclassified and assigned to an erroneous cluster, i.e., such NMFSP can be identified as anomaly.</p></li>
-</ol></p>
-
+</ol>
 <p align="justify">The proposed approach is applied on two months (October-November 2016) of data for a large OVSP company. The results show an increase in the number of quality adaptation events for many video sessions in both months. Such surge in the number of video streaming performance events during video sessions can be related to the fact that many viewers simultaneously try to watch the same video (e.g., a special live show) or an issue at the system level. In both cases, additional analysis by the company experts is needed for better understanding and interpretation of the results.</p>
 </div>
 <p>
