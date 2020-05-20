@@ -53,7 +53,7 @@
 <li>
 <p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper4.pdf">[PDF]</a></p>
-<p>The paper was presetned at the <i> 2016 15th International Symposium on District Heating and Cooling</i>, Seoul, Korea.</p>
+<p>The paper was presented at the <i> 2016 15th International Symposium on District Heating and Cooling</i>, Seoul, Korea.</p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
 <div style="display:none" id="a4">
