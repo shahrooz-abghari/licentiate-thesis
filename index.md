@@ -102,7 +102,7 @@
 </li>
 </ol>
 
-**Other related papers**
+**Related papers**
 
 <ol start="8">
 
