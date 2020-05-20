@@ -107,9 +107,9 @@
 <ol start="8">
 
 <li>
-<p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring District Heating Substations via Clustering Analysis". In <i> 2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
-<strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper8.pdf">[PDF]</a>
-</p> 
+<p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring District Heating Substations via Clustering Analysis". In <i> 31st Swedish AI
+Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">SAIS 2019</a>
+</strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
   
 <button id="b8" class="unstyled-button"  onclick="toggle('a8');update_button('b8')"><u>Abstract</u></button>
 <div style="display:none" id="a8">
