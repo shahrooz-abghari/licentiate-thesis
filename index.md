@@ -148,8 +148,8 @@ Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/pr
 </p>
 </li>
 
+<li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i> 2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank"></a>[SweDS 2018]</strong></p>
-
 
 <button id="b11" class="unstyled-button" onclick="toggle('a11');update_button('b11')"><u>Abstract</u></button>
 <div style="display:none" id="a11">
