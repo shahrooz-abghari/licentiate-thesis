@@ -38,8 +38,8 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A Minimum Spanning Tree Clustering Approach for Outlier Detection in Event Sequences" In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i> (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182" target="_blank">10.1109/ICMLA.2018.00182</a> - 
-<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207" target="_blank">[IEEE]</a></strong> -  - <a href="./doc/paper4.pdf">[PDF]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A minimum spanning tree clustering approach for outlier detection in event sequences". In <i> 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i> (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182" target="_blank">10.1109/ICMLA.2018.00182</a> - 
+<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper4.pdf">[PDF]</a></p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
 <div style="display:none" id="a4">
@@ -65,7 +65,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i> Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1" target="_blank">10.1007/978-3-030-43887-6_1</a> - <strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1" target="_blank">[Springer]</a> - <a href="./doc/paper5.pdf">[PDF]</a></strong></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i> Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1" target="_blank">10.1007/978-3-030-43887-6_1</a> - <strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1" target="_blank">[Springer]</a></strong> - <a href="./doc/paper5.pdf">[PDF]</a></p>
   
 <button id="b5" class="unstyled-button" onclick="toggle('a5');update_button('b5')"><u>Abstract</u></button>
 <div style="display:none" id="a5">
@@ -77,7 +77,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i><a href="./doc/paper6.pdf">[PDF]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i> 2020 9th International Conference on Data Science, Technology and Applications (DATA 2020) (Accpted. Will be presented on 7-9 July 2020).</i> - <a href="./doc/paper6.pdf">[PDF]</a></p>
   
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
 <div style="display:none" id="a6">
@@ -107,7 +107,7 @@
 <ol start="8">
 
 <li>
-<p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring District Heating Substations via Clustering Analysis". In <i> 31st Swedish AI
+<p align="justify" id="p-9"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i> 2019 31st Swedish AI
 Society Workshop (SAIS 2019)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">SAIS 2019</a>
 </strong> - <a href="./doc/paper8.pdf">[PDF]</a></p> 
   
