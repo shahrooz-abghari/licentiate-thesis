@@ -53,7 +53,7 @@
 <li>
 <p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[sciencedirect]</a></strong> - <a href="./doc/paper2.pdf">[PDF]</a></p>
-<p>Also published in: <i>The 15th Int'l Symp. on District Heating and Cooling</i>, 2016, Seoul, Korea.</p>
+<p>The paper presetned in: <i> 2016 15th International Symposium on District Heating and Cooling</i>, Seoul, Korea.</p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
 <div style="display:none" id="a2">
@@ -105,6 +105,7 @@
 **Other related papers**
 
 <ol start="8">
+
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, Gustafsson, J., Shaikh, J., & Grahn, H. "Anomaly Detection in Video Session Data". In <i>2017 5th Swedish Workshop on Data Science (SweDS 2017)</i>. <strong><a href="https://cse.gu.se/english/sweds2017" target="_blank">[SweDS 2017]</a></strong></p>
 
