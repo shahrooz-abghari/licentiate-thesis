@@ -145,7 +145,7 @@
 
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining for monitoring district seating substations". In <i>2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
+<p align="justify" id="p-10"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining for monitoring district seating substations". In <i>2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
 <strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper10.pdf">[PDF]</a>
 </p> 
   
@@ -159,7 +159,7 @@
 </li>
 
 <li>
-<p align="justify" id="p-11"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., Johansson, C., Grahn, H., & Lavesson, N. "Monitoring district heating substations via clustering analysis". In <i>2019 31st Swedish AI
 Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program/" target="_blank">[SAIS 2019 Workshop]</a>
 </strong> - <a href="./doc/paper11.pdf">[PDF]</a></p> 
   
