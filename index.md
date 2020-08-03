@@ -79,7 +79,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i>2020 9th International Conference on Data Science, Technology and Applications (DATA).</i> vol 1. SciTePress, ISBN 978-989-758-440-4, pp 158-168. DOI: <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0009780001580168" target="_blank"> 10.5220/0009780001580168</a> - <strong><a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0009780001580168" target="_blank">[SciTePress]</a></strong> - <a href="./doc/paper6.pdf">[PDF]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i>2020 9th International Conference on Data Science, Technology and Applications (DATA).</i> vol 1. SciTePress, ISBN: <a href="https://www.scitepress.org/ProceedingsDetails.aspx?ID=3AJl2lT2kdc=&t=1" target="_blank"> 978-989-758-440-4</a>, pp 158-168. DOI: <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=AKru4e1EjUI=&t=1" target="_blank"> 10.5220/0009780001580168</a> - <strong><a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=AKru4e1EjUI=&t=1" target="_blank">[SciTePress]</a></strong> - <a href="./doc/paper6.pdf">[PDF]</a></p>
   
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
 <div style="display:none" id="a6">
