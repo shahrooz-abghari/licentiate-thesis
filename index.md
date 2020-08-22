@@ -91,7 +91,7 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets". <i>Journal of Energies,</i> - <a href="./doc/paper7.pdf">[PDF]</a></p> -(The paper is the extention of <a href="#p-10">Paper 10</a>.). 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets". <i>Journal of Energies,</i> - <a href="./doc/paper7.pdf">[PDF]</a> - (The paper is the extention of <a href="#p-10">Paper 10</a>.). 
 </p>
 
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
