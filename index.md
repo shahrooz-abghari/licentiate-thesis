@@ -91,12 +91,12 @@
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets". <i>Journal of Data Science and Analytics,</i> (The paper is the extention of <a href="#p-10">Paper 10</a>.). 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining approach for analysis of real-world datasets". <i>Journal of Energies,</i> - <a href="./doc/paper7.pdf">[PDF]</a></p> -(The paper is the extention of <a href="#p-10">Paper 10</a>.). 
 </p>
 
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
 <div style="display:none" id="a7">
-<p align="justify">In this study, we propose a higher order mining (HOM) approach that can be used for analysis of real-world datasets. The proposed approach consists of several different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, clustering analysis is performed on the extracted patterns to model the behavior modes of the studied phenomenon for a given time period. The built clustering models corresponding to every two consecutive time periods can further be assessed for mining changes in the monitored behaviour. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The validity and the potential of the proposed approach has been demonstrated on a real-world dataset originating from a network of district heating (DH) substations. The obtained results show that our approach is capable of detecting deviating and sub-optimal behaviours of the DH substations.</p>
+<p align="justify">In this study, we propose a higher order mining (HOM) approach that can be used for analysis of real-world datasets. The proposed approach consists of several different data analysis techniques such as sequential pattern mining, clustering analysis, consensus clustering and minimum spanning tree (MST). Initially, clustering analysis is performed on the extracted patterns to model the behaviour modes of the studied phenomenon for a given time interval. The built clustering models corresponding to every two consecutive time intervals can further be assessed for mining changes in the monitored behaviour. In case some significant difference is observed, further analysis is performed by integrating the built models into a consensus clustering and applying an MST for identifying deviating behaviours. The validity and potential of the proposed approach has been demonstrated on a real-world dataset originating from a network of district heating (DH) substations. The obtained results show that our approach is capable of detecting deviating and sub-optimal behaviours of the DH substations.</p>
 </div>
 <p>
   <br>
