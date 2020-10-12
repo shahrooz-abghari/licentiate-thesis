@@ -11,7 +11,7 @@
 **PhD dissertation description and author contribution**
 <p align="justify">This thesis consists of seven papers. In Paper I, the author has been one of the main drivers. While in the next six papers, he has been the main driver. The studies in all papers have been developed and designed under the guidance of the supervisors and domain experts. The formatting of the published papers included in this thesis has been changed to achieve a consistent style.</p>
 
-The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF]</a>.
+The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF]</a> (version: 2020-10-12).
 
 **Included papers**
 <ol>
