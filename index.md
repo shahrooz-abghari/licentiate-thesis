@@ -175,7 +175,7 @@ Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program
 </li>
 
 <li>
-<p align="justify">Eghbalian, A., <b>Abghari, S.</b>, Boeva, V., Basiri, F. "Multi-view data mining approach for behaviour analysis ofsmart control valve". In <i>2020 19th IEEE InternationalConference on Machine Learning and Applications</i>, December 14-17, 2020, Miami, Florida (Accepted)
+<p align="justify">Eghbalian, A., <b>Abghari, S.</b>, Boeva, V., Basiri, F. "Multi-view data mining approach for behaviour analysis ofsmart control valve". In <i>2020 19th IEEE InternationalConference on Machine Learning and Applications</i>, December 14-17, 2020, Miami, Florida (Accepted) - <a href="./doc/paper12.pdf">[PDF]</a></p>
 
 <button id="b12" class="unstyled-button"  onclick="toggle('a12');update_button('b12')"><u>Abstract</u></button>
 <div style="display:none" id="a12">
