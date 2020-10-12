@@ -174,4 +174,18 @@ Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program
 </p>  
 </li>
 
+<li>
+<p align="justify">Eghbalian, A., <b>Abghari, S.</b>, Boeva, V., Basiri, F. "Multi-view data mining approach for behaviour analysis ofsmart control valve". In <i>2020 19th IEEE InternationalConference on Machine Learning and Applications</i>, December 14-17, 2020, Miami, Florida (Accepted)
+
+<button id="b12" class="unstyled-button"  onclick="toggle('a12');update_button('b12')"><u>Abstract</u></button>
+<div style="display:none" id="a12">
+<p align="justify">In this study, we propose a multi-view data analysis approach that can be used for modelling and monitoring smart control valve system behaviour. The proposed approach consists of four distinctive steps: (i) multi-view interpretation of the available data attributes by separating them into several representations (views), e.g., operational parameters, contextual factors, and performance indicators; (ii) modelling different control valve system operating modes by clustering analyses of the operational data view; (iii) annotating each operating mode (cluster) by using the remaining views (i.e., contextual and system performance data); (iv) context-aware monitoring of the control valve system operating behaviour by applying the built model. In addition, the data points (daily profiles) observed during the monitoring can be annotated by comparing them with the known typical behavioural modes. This information can be further analysed and used for continuous updating and improvement of the model.</p>
+
+<p align="justify">The potential of the proposed approach has been evaluated and demonstrated on real-world sensor data originating from a company in the smart building domain. The obtained results show the robustness of the proposed approach in modelling, analysing, and monitoring the control valve system behaviour.</p>
+</div>
+<p>
+  <br>
+</p>  
+</li>
+
 </ol>
