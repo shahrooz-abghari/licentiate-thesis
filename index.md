@@ -17,7 +17,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 **Included papers**
 <ol>
 <li>
-<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>, (40)14 (2013), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029" target="_blank">10.1016/J.ESWA.2013.04.029</a> - 
+<p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>. 2013; 40(14), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029" target="_blank">10.1016/J.ESWA.2013.04.029</a> - 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper1.pdf">[PDF]</a></p>
   
 <button id="b1" class="unstyled-button"  onclick="toggle('a1');update_button('b1')"><u>Abstract</u></button>
@@ -56,7 +56,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>, 116 (2017), pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
+<p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>. 2017; 116, pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper4.pdf">[PDF]</a></p>
 <p>The paper was presented at the <i> 2016 15th International Symposium on District Heating and Cooling</i>, Seoul, Korea.</p>
 
@@ -94,12 +94,13 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "A Higher order mining approach for analysis of real-world datasets". <i>Submitted for journal publication,</i> - <a href="./doc/paper8.pdf">[PDF]</a> (The paper is an extention of <a href="#p-10">Paper 10</a>.). 
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "A higher order mining approach for the analysis of real-world datasets". <i>Energies</i>. 2020, 13(21):5781. DOI:<a href="https://doi.org/10.3390/en13215781" target="_blank">10.3390/en13215781</a> - 
+<strong><a href="https://www.mdpi.com/1996-1073/13/21/5781" target="_blank">[MDPI]</a></strong> - <a href="./doc/paper8.pdf">[PDF]</a> (The paper is an extention of <a href="#p-10">Paper 10</a>.). 
 </p>
 
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
 <div style="display:none" id="a7">
-<p align="justify">In this study, we propose a higher order mining approach that can be used for analysis of real-world datasets. The approach can be used for monitoring and identifying deviating operational behaviour of the studied phenomenon in the absence of prior knowledge about data. The proposed approach consists of several different data analysis techniques, such as sequential pattern mining, clustering analysis, consensus clustering, and minimum spanning tree (MST). Initially, a clustering analysis is performed on the extracted patterns to model the behavioural modes of the studied phenomenon for a given time interval. The generated clustering models that corresponds to every two consecutive time intervals can further be assessed for mining changes in the monitored behaviour. In cases were significant differences are observed, further analysis is performed by integrating the generated models into a consensus clustering and applying an MST for identifying deviating behaviours. The validity and potential of the proposed approach has been demonstrated on a real-world dataset originating from a network of district heating (DH) substations. The obtained results show that our approach is capable of detecting deviating and sub-optimal behaviours of the DH substations.</p>
+<p align="justify">In this study, we propose a higher order mining approach that can be used for the analysis of real-world datasets. The approach can be used to monitor and identify the deviating operational behaviour of the studied phenomenon in the absence of prior knowledge about the data. The proposed approach consists of several different data analysis techniques, such as sequential pattern mining, clustering analysis, consensus clustering and the minimum spanning tree (MST). Initially, a clustering analysis is performed on the extracted patterns to model the behavioural modes of the studied phenomenon for a given time interval. The generated clustering models, which correspond to every two consecutive time intervals, can further be assessed to determine changes in the monitored behaviour. In cases in which significant differences are observed, further analysis is performed by integrating the generated models into a consensus clustering and applying an MST to identify deviating behaviours. The validity and potential of the proposed approach is demonstrated on a real-world dataset originating from a network of district heating (DH) substations. The obtained results show that our approach is capable of detecting deviating and sub-optimal behaviours of DH substations.</p>
 </div>
 <p>
   <br>
