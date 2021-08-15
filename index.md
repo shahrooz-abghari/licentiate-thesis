@@ -57,7 +57,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Garcia-Martin, E., Johansson, C., Lavesson, N., & Grahn, H. "Trend analysis to automatically identify heat program changes". <i>Energy Procedia</i>. 2017; 116, pp. 407-415. DOI:<a href="https://doi.org/10.1016/j.egypro.2017.05.088" target="_blank">10.1016/J.EGYPRO.2017.05.088</a> - 
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper4.pdf">[PDF]</a></p>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S1876610217322956" target="_blank">[ScienceDirect]</a></strong></p>
 <p>The paper was presented at the <i> 2016 15th International Symposium on District Heating and Cooling</i>, Seoul, Korea.</p>
 
 <button id="b4" class="unstyled-button"  onclick="toggle('a4');update_button('b4')"><u>Abstract</u></button>
@@ -177,7 +177,8 @@ Society Workshop (SAIS)</i>. <strong><a href="https://sais2019.cs.umu.se/program
 </li>
 
 <li>
-<p align="justify">Eghbalian, A., <b>Abghari, S.</b>, Boeva, V., & Basiri, F. "Multi-view data mining approach for behaviour analysis ofsmart control valve". In <i>2020 19th IEEE InternationalConference on Machine Learning and Applications</i>, December 14-17, 2020, Miami, Florida (Accepted) - <a href="./doc/paper12.pdf">[PDF]</a></p>
+<p align="justify">Eghbalian, A., <b>Abghari, S.</b>, Boeva, V., & Basiri, F. "Multi-view data mining approach for behaviour analysis ofsmart control valve". In <i>2020 19th IEEE InternationalConference on Machine Learning and Applications (ICMLA)</i> (pp. 1238-1245). DOI: <a href="https://doi.org/10.1109/ICMLA51294.2020.00195" target="_blank">10.1109/ICMLA51294.2020.00195</a> - <strong><a href="https://ieeexplore.ieee.org/abstract/document/9356190" target="_blank">[IEEE]</a></strong>
+  </p>
 
 <button id="b12" class="unstyled-button"  onclick="toggle('a12');update_button('b12')"><u>Abstract</u></button>
 <div style="display:none" id="a12">
