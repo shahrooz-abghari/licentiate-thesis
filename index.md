@@ -18,7 +18,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 <ol>
 <li>
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>. 2013; 40(14), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029" target="_blank">10.1016/J.ESWA.2013.04.029</a> - 
-<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765" target="_blank">[ScienceDirect]</a></strong> - <a href="./doc/paper1.pdf">[PDF]</a></p>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S0957417413002765" target="_blank">[ScienceDirect]</a></strong></p>
   
 <button id="b1" class="unstyled-button"  onclick="toggle('a1');update_button('b1')"><u>Abstract</u></button>
 <div style="display:none" id="a1">
@@ -31,7 +31,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". In <i>Association for Computing Machinery’s Special Interest Group on Knowledge Discovery and Data Mining: Workshop On Outlier Detection De-constructed</i>, 2018, London, UK.
-<strong><a href="https://www.andrew.cmu.edu/user/lakoglu/odd/index.html" target="_blank">[ODD v5.0 Workshop]</a></strong> - <a href="./doc/paper2.pdf">[PDF]</a></p>
+<strong><a href="https://www.andrew.cmu.edu/user/lakoglu/odd/index.html" target="_blank">[ODD v5.0 Workshop]</a></strong></p>
 
 <button id="b2" class="unstyled-button"  onclick="toggle('a2');update_button('b2')"><u>Abstract</u></button>
 <div style="display:none" id="a2">
@@ -44,7 +44,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Lavesson, N., Grahn, H., Ickin, S., and Gustafsson, J. "A minimum spanning tree clustering approach for outlier detection in event sequences". In <i>2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)</i> (pp. 1123-1130). DOI: <a href="https://doi.org/10.1109/ICMLA.2018.00182" target="_blank">10.1109/ICMLA.2018.00182</a> - 
-<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper3.pdf">[PDF]</a></p>
+<strong><a href="https://ieeexplore.ieee.org/abstract/document/8614207" target="_blank">[IEEE]</a></strong></p>
 
 <button id="b3" class="unstyled-button"  onclick="toggle('a3');update_button('b3')"><u>Abstract</u></button>
 <div style="display:none" id="a3">
@@ -70,7 +70,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i>Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1" target="_blank">10.1007/978-3-030-43887-6_1</a> - <strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1" target="_blank">[Springer]</a></strong> - <a href="./doc/paper5.pdf">[PDF]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Johansson, C. "District heating substation behaviour modelling for annotating the performance. In <i>Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Communications in Computer and Information Science</i>, vol 1168. Springer, Cham. DOI: <a href="https://doi.org/10.1007/978-3-030-43887-6_1" target="_blank">10.1007/978-3-030-43887-6_1</a> - <strong><a href="https://link.springer.com/chapter/10.1007/978-3-030-43887-6_1" target="_blank">[Springer]</a></strong></p>
   
 <button id="b5" class="unstyled-button" onclick="toggle('a5');update_button('b5')"><u>Abstract</u></button>
 <div style="display:none" id="a5">
@@ -82,7 +82,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 </li>
 
 <li>
-<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i>2020 9th International Conference on Data Science, Technology and Applications (DATA).</i> vol 1. SciTePress, ISBN: <a href="https://www.scitepress.org/ProceedingsDetails.aspx?ID=3AJl2lT2kdc=&t=1" target="_blank"> 978-989-758-440-4</a>, pp 158-168. DOI: <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=AKru4e1EjUI=&t=1" target="_blank"> 10.5220/0009780001580168</a> - <strong><a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=AKru4e1EjUI=&t=1" target="_blank">[SciTePress]</a></strong> - <a href="./doc/paper6.pdf">[PDF]</a></p>
+<p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Multi-view clustering analyses for district heating substations". In <i>2020 9th International Conference on Data Science, Technology and Applications (DATA).</i> vol 1. SciTePress, ISBN: <a href="https://www.scitepress.org/ProceedingsDetails.aspx?ID=3AJl2lT2kdc=&t=1" target="_blank"> 978-989-758-440-4</a>, pp 158-168. DOI: <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=AKru4e1EjUI=&t=1" target="_blank"> 10.5220/0009780001580168</a> - <strong><a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=AKru4e1EjUI=&t=1" target="_blank">[SciTePress]</a></strong></p>
   
 <button id="b6" class="unstyled-button"  onclick="toggle('a6');update_button('b6')"><u>Abstract</u></button>
 <div style="display:none" id="a6">
@@ -95,7 +95,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 
 <li>
 <p align="justify"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "A higher order mining approach for the analysis of real-world datasets". <i>Energies</i>. 2020, 13(21):5781. DOI:<a href="https://doi.org/10.3390/en13215781" target="_blank">10.3390/en13215781</a> - 
-<strong><a href="https://www.mdpi.com/1996-1073/13/21/5781" target="_blank">[MDPI]</a></strong> - <a href="./doc/paper8.pdf">[PDF]</a> (The paper is an extention of <a href="#p-10">Paper 10</a>.). 
+<strong><a href="https://www.mdpi.com/1996-1073/13/21/5781" target="_blank">[MDPI]</a></strong> (The paper is an extention of <a href="#p-10">Paper 10</a>.). 
 </p>
 
 <button id="b7" class="unstyled-button"  onclick="toggle('a7');update_button('b7')"><u>Abstract</u></button>
@@ -150,7 +150,7 @@ The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF
 
 <li>
 <p align="justify" id="p-10"><b>Abghari, S.</b>, Boeva, V., Brage, J., & Grahn, H. "Higher order mining for monitoring district seating substations". In <i>2019 6th IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i> (pp. 382-391). DOI: <a href="https://doi.org/10.1109/DSAA.2019.00053" target="_blank">10.1109/DSAA.2019.00053</a> - 
-<strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong> - <a href="./doc/paper10.pdf">[PDF]</a>
+<strong><a href="https://ieeexplore.ieee.org/document/8964173" target="_blank">[IEEE]</a></strong>
 </p> 
   
 <button id="b10" class="unstyled-button"  onclick="toggle('a10');update_button('b10')"><u>Abstract</u></button>
